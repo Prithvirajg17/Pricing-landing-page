@@ -18,7 +18,7 @@ It offers a visually appealing and user-friendly interface to help visitors unde
 ## Getting Started
 
 To view the landing page, simply open 
-index.html file in a web browser. You can also deploy the page to a web server for public access.
+[index.html](https://github.com/Prithvirajg17/Pricing-landing-page/blob/main/index.html) file in a web browser. You can also deploy the page to a web server for public access.
 
 
 
