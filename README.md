@@ -19,7 +19,7 @@ It offers a visually appealing and user-friendly interface to help visitors unde
 
 To view the landing page, simply open 
 [index.html](https://github.com/Prithvirajg17/Pricing-landing-page/blob/main/index.html) file
-[style.css](https://github.com/Prithvirajg17/Pricing-landing-page/blob/main/style.css file) file
+[style.css](https://github.com/Prithvirajg17/Pricing-landing-page/blob/main/style.css) file
 [main.js](https://github.com/Prithvirajg17/Pricing-landing-page/blob/main/main.js) file
 
 
