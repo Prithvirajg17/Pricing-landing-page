@@ -37,7 +37,8 @@ To view the landing page, simply open
 ![pricing](https://github.com/Prithvirajg17/Pricing-landing-page/assets/148732155/6f79eb1a-066e-4f77-bc04-de543f9dc0ed)
 
 
-![Screenshot 2024-01-22 134110](https://github.com/Prithvirajg17/Pricing-landing-page/assets/148732155/f8b050ab-3434-4b23-bb32-f683c03f9ba0)
+![footer](https://github.com/Prithvirajg17/Pricing-landing-page/assets/148732155/f35ccbcd-56dc-4453-8b81-f7335f111b53)
+
 
 
 
